@@ -29,16 +29,17 @@ class Home extends React.Component {
         const NAV_SECTIONS = SECTIONS.map(section => {
             let Icon = section.Icon;
             let isActive = section.isActive;
+            let title = section.title;
             if (isActive) {
                 return(
-                    <Link className='section-navigation-item' to={section.href}>
+                    <Link className='section-navigation-item' key={title} to={section.href}>
                         <Icon className='section-navigation-item__icon'/>
                         <span className='section-navigation-item__title'>{section.title}</span>
                     </Link>
                 )
             } else {
                 return(
-                    <div className='section-navigation-item section-navigation-item_disabled' >
+                    <div className='section-navigation-item section-navigation-item_disabled' key={title}>
                         <Icon className='section-navigation-item__icon'/>
                         <span className='section-navigation-item__title'>{section.title}</span>
                     </div>

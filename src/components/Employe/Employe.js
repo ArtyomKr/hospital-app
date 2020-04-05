@@ -1,5 +1,5 @@
 import React from 'react';
-import './Employe.scss'
+import './Employe.scss';
 import cn from 'classnames';
 
 
@@ -15,9 +15,10 @@ export default class Event extends React.Component{
             email = '',
             adress = ''
         } = this.props;
+
         return(
             <div className={cn('employe', className)}>
-                <img className='employe__img' src={image}/>
+                <img className='employe__img' src={process.env.PUBLIC_URL + image} alt='doctor'/>
                 <div className='employe__info'>
                     <div className='employe__name'>
                         {name}

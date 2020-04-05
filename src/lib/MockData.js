@@ -1,6 +1,6 @@
 const APPOINTMENTS = [
     {
-        date: 1560422694514,
+        date: 1584422694414,
         client: "Петров Петр Петрович",
         status: 0,
         doctor: "Иванов Иван Иванович",
@@ -8,7 +8,7 @@ const APPOINTMENTS = [
         diagnosis: "Биполярное расстройство"
     },
     {
-        date: 1560422194414,
+        date: 1580492194414,
         client: "Петров Петр Петрович",
         status: 0,
         doctor: "Иванов Иван Иванович",
@@ -17,7 +17,7 @@ const APPOINTMENTS = [
     },
     {
         date: 1520424004514,
-        client: "Гольдперов Вассарион Вассарионович",
+        client: "Гольдеров Вассарион Вассарионович",
         status: 1,
         doctor: "Иванов Иван Иванович",
         complaints: "Тахикардия",
@@ -50,7 +50,7 @@ const users = [
 const events = [
     {
         title:'Совещание',
-        date:1560422694514,
+        date: 1560422694514,
         time: '18:40',
         place: 'каб. 406',
         from: 'Администрация',
@@ -66,7 +66,7 @@ const events = [
     },
     {
         title:'Корпоратив',
-        date:1520424004514,
+        date: 1520424004514,
         time: '10:40',
         place: 'каб. 202',
         from: 'Администрация',
@@ -74,7 +74,7 @@ const events = [
     },
     {
         title:'Сокращённый рабочий день',
-        date:1500444304514,
+        date: 1500444304514,
         time: '10:40',
         place: 'каб. 202',
         from: 'Администрация',
@@ -82,7 +82,7 @@ const events = [
     },
     {
         title:'Событие',
-        date:1500444304514,
+        date: 1500444304514,
         time: '10:40',
         place: 'каб. 202',
         from: 'Администрация',
@@ -90,7 +90,7 @@ const events = [
     },
     {
         title:'Событие',
-        date:1500444304514,
+        date: 1500444304514,
         time: '10:40',
         place: 'каб. 202',
         from: 'Администрация',
@@ -110,11 +110,11 @@ const employees = [
         image: '/images/Employees/doc1.jpg'
     },
     {
-        name: 'Гольдперов Вассарион Вассарионович',
+        name: 'Гольдеров Вассарион Вассарионович',
         birth: '23.01.1965',
         position: 'Врач-педиатр участковый',
         tel: '+375 44 321 45 67',
-        email: 'Goldperov@gmail.com',
+        email: 'Golderov@gmail.com',
         adress: 'ул. Михайлова, д. 5',
         image: '/images/Employees/doc2.jpg'
     },

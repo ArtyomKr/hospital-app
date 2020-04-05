@@ -32,7 +32,7 @@ export default class SelectorField extends React.Component {
                        name={name}
                        value={value}
                        onChange={this.handleChange}>
-                    {options.map(o => <option id={o.value} value={o.value}>{o.text}</option>)}
+                    {options.map(o => <option id={o.value} key={o.value} value={o.value}>{o.text}</option>)}
                 </select>
             </div>
         )

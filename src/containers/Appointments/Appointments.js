@@ -111,7 +111,7 @@ class Appointments extends React.Component {
                 )
             }
         },{
-            dataField: 'date',
+            dataField: 'time',
             text: 'Время',
             headerStyle:{
                 width: '75px'
