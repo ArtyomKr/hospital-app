@@ -35,6 +35,10 @@ function mapDispatchToProps(dispatch){
          this.load();
      }
 
+     componentWillUnmount() {
+         this.props.actions.clean();
+     }
+
     render(){
         const {
             isFetching,

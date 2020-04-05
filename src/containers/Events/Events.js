@@ -1,7 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { ReactComponent as Star } from '../../images/Icons/star.svg';
-import service from '../../services/EventsService';
 import {bindActionCreators} from 'redux';
 import moment from 'moment';
 
@@ -35,6 +34,10 @@ class Events extends React.Component {
 
     componentDidMount(){
         this.load();
+    }
+
+    componentWillUnmount() {
+        this.props.actions.clean();
     }
 
     render(){
