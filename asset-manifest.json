@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hospital-app/static/css/main.a0b9ec87.chunk.css",
-    "main.js": "/hospital-app/static/js/main.fa2959ad.chunk.js",
-    "main.js.map": "/hospital-app/static/js/main.fa2959ad.chunk.js.map",
+    "main.js": "/hospital-app/static/js/main.327f417f.chunk.js",
+    "main.js.map": "/hospital-app/static/js/main.327f417f.chunk.js.map",
     "runtime-main.js": "/hospital-app/static/js/runtime-main.3b8fba49.js",
     "runtime-main.js.map": "/hospital-app/static/js/runtime-main.3b8fba49.js.map",
     "static/css/2.b90ce945.chunk.css": "/hospital-app/static/css/2.b90ce945.chunk.css",
     "static/js/2.b3037932.chunk.js": "/hospital-app/static/js/2.b3037932.chunk.js",
     "static/js/2.b3037932.chunk.js.map": "/hospital-app/static/js/2.b3037932.chunk.js.map",
     "index.html": "/hospital-app/index.html",
-    "precache-manifest.f37ee9f966c9c97cef46537d978b44fc.js": "/hospital-app/precache-manifest.f37ee9f966c9c97cef46537d978b44fc.js",
+    "precache-manifest.5128221c284d38a35405463f8b4c52db.js": "/hospital-app/precache-manifest.5128221c284d38a35405463f8b4c52db.js",
     "service-worker.js": "/hospital-app/service-worker.js",
     "static/css/2.b90ce945.chunk.css.map": "/hospital-app/static/css/2.b90ce945.chunk.css.map",
     "static/css/main.a0b9ec87.chunk.css.map": "/hospital-app/static/css/main.a0b9ec87.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.b90ce945.chunk.css",
     "static/js/2.b3037932.chunk.js",
     "static/css/main.a0b9ec87.chunk.css",
-    "static/js/main.fa2959ad.chunk.js"
+    "static/js/main.327f417f.chunk.js"
   ]
 }
