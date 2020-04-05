@@ -1,0 +1,61 @@
+.employe{
+  display: flex;
+  height: 260px;
+  margin-bottom: 30px;
+  background-color: #E6ECEF;
+  border-radius: 9px 9px 9px 9px;
+}
+
+.employe__name{
+  height: 60px;
+  background-color: #FFDCDC;
+  border-radius: 9px 9px 0 0;
+  text-align: start;
+  padding-left: 30px;
+  font:{
+    family: Roboto Light;
+    size: 36px;
+  }
+}
+
+.employe__info{
+  width: 100%;
+}
+
+.employe__img{
+  height: 260px;
+  width: 260px;
+  border-radius: 9px 0 0 9px;
+}
+
+.employe__details{
+  text-align: start;
+  padding-left: 30px;
+  font:{
+    family: Roboto Light;
+    size: 24px;
+  }
+
+  .employe__details-birth{
+    font-size: 18px;
+  }
+
+  .employe__details-position{
+    margin-top: 10px;
+    font:{
+      family: Roboto Regular;
+      size: 30px;
+    }
+  }
+  .employe__details-contacts{
+    margin-top: 10px;
+  }
+
+  .employe__details-contacts-name{
+    font-size: 36px;
+  }
+
+  .employe__contacts{
+    font-size: 18px;
+  }
+}

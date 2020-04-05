@@ -1,0 +1,26 @@
+.button {
+  padding: 0.15rem 1rem;
+  background-color: #E6ECEF;
+  border-radius: 6px;
+  border: 1px solid black;
+
+  .button-text {
+    color: black;
+    padding: 0 10px;
+    font:{
+      family: Roboto Light;
+      style: normal;
+      weight: 300;
+      size: 18px;
+    }
+  }
+}
+
+.button:focus{
+  outline: none;
+}
+
+.button:hover{
+  background: #BFD1DA;
+  outline: none;
+}

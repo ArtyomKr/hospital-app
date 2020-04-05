@@ -1,0 +1,43 @@
+.event{
+  width: 500px;
+  background-color: #E6ECEF;
+  border-radius: 15px;
+}
+
+.event__header{
+  border-radius: 15px 15px 0 0;
+  background-color: #FFDCDC;
+  padding: 15px;
+  text-align: left;
+
+  .event__header__title{
+    margin-bottom: 5px;
+    font:{
+      family: Roboto Light;
+      size: 36px;
+    }
+  }
+
+  .event__header__details{
+    display: flex;
+    align-items: baseline;
+    color: #9C9494;
+    font:{
+      family: Roboto Light;
+      weight: 800;
+      size: 18px;
+    }
+
+    .event__header__details__item{
+      padding-right: 20px;
+    }
+  }
+}
+
+.event__body{
+  padding: 15px;
+  font:{
+    family: Roboto Light;
+    size: 18px;
+  }
+}

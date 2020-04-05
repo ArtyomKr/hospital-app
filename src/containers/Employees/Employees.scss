@@ -1,0 +1,15 @@
+.employees{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.employees-body{
+  width: 100%;
+  max-width: 1080px;
+  min-width: 480px;
+}
+
+.employees-list{
+  margin-top: 30px;
+}

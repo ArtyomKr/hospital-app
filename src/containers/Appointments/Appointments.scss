@@ -1,0 +1,25 @@
+.appointments {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.appointments-body {
+  width:100%;
+  max-width: 1080px;
+  min-width: 480px;
+  .react-bootstrap-table {
+    width: 100%;
+  }
+}
+
+.forms {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  margin-top: 20px;
+  .form-group {
+    margin-right: 15px;
+  }
+}
+
