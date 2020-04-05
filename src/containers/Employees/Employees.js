@@ -29,7 +29,6 @@ function mapDispatchToProps(dispatch){
  class Employees extends React.Component {
      load = () => {
          this.props.actions.load();
-         console.log(this.props.dataSource.data)
      };
 
      componentDidMount(){

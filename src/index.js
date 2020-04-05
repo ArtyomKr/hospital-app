@@ -28,8 +28,6 @@ function getInitialState () {
 
 const store = createStore(rootReducer, getInitialState(), applyMiddleware(thunkMiddleware));
 
-store.subscribe(() => console.log(store.getState()));
-
 ReactDOM.render((
     <Provider store={store}>
         <BrowserRouter>

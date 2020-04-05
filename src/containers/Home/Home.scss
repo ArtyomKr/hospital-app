@@ -7,10 +7,9 @@ $header-height: 60px;
 }
 
 .home-body {
-  height: 100vh;
+  height: calc(100vh - 60px);
   max-width: 1080px;
   min-width: 480px;
-  flex-grow: 1;
   display: flex;
   justify-content: center;
   align-items: center;
