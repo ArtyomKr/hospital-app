@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hospital-app/static/css/main.2088cdb4.chunk.css",
-    "main.js": "/hospital-app/static/js/main.3ad8f45b.chunk.js",
-    "main.js.map": "/hospital-app/static/js/main.3ad8f45b.chunk.js.map",
+    "main.css": "/hospital-app/static/css/main.a0b9ec87.chunk.css",
+    "main.js": "/hospital-app/static/js/main.fa2959ad.chunk.js",
+    "main.js.map": "/hospital-app/static/js/main.fa2959ad.chunk.js.map",
     "runtime-main.js": "/hospital-app/static/js/runtime-main.3b8fba49.js",
     "runtime-main.js.map": "/hospital-app/static/js/runtime-main.3b8fba49.js.map",
     "static/css/2.b90ce945.chunk.css": "/hospital-app/static/css/2.b90ce945.chunk.css",
     "static/js/2.b3037932.chunk.js": "/hospital-app/static/js/2.b3037932.chunk.js",
     "static/js/2.b3037932.chunk.js.map": "/hospital-app/static/js/2.b3037932.chunk.js.map",
     "index.html": "/hospital-app/index.html",
-    "precache-manifest.f5f37a20bcd14fe8d73e23c1ecaa6c32.js": "/hospital-app/precache-manifest.f5f37a20bcd14fe8d73e23c1ecaa6c32.js",
+    "precache-manifest.f37ee9f966c9c97cef46537d978b44fc.js": "/hospital-app/precache-manifest.f37ee9f966c9c97cef46537d978b44fc.js",
     "service-worker.js": "/hospital-app/service-worker.js",
     "static/css/2.b90ce945.chunk.css.map": "/hospital-app/static/css/2.b90ce945.chunk.css.map",
-    "static/css/main.2088cdb4.chunk.css.map": "/hospital-app/static/css/main.2088cdb4.chunk.css.map",
+    "static/css/main.a0b9ec87.chunk.css.map": "/hospital-app/static/css/main.a0b9ec87.chunk.css.map",
     "static/js/2.b3037932.chunk.js.LICENSE.txt": "/hospital-app/static/js/2.b3037932.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/hospital-app/static/media/Roboto-Regular.90679e0c.ttf",
     "static/media/baby.6f191e6f.svg": "/hospital-app/static/media/baby.6f191e6f.svg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.3b8fba49.js",
     "static/css/2.b90ce945.chunk.css",
     "static/js/2.b3037932.chunk.js",
-    "static/css/main.2088cdb4.chunk.css",
-    "static/js/main.3ad8f45b.chunk.js"
+    "static/css/main.a0b9ec87.chunk.css",
+    "static/js/main.fa2959ad.chunk.js"
   ]
 }
