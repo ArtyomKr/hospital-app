@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94ca753e1cc400f960ae8de226608cea",
+    "revision": "8c72fc23e379188981397bbee4cfae89",
     "url": "/hospital-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hospital-app/static/css/2.b90ce945.chunk.css"
   },
   {
-    "revision": "3cc0187d3b4a7e4ebe79",
+    "revision": "76f3e4f3bd0561fb3b4e",
     "url": "/hospital-app/static/css/main.a0b9ec87.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hospital-app/static/js/2.fedc66c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cc0187d3b4a7e4ebe79",
-    "url": "/hospital-app/static/js/main.f4add211.chunk.js"
+    "revision": "76f3e4f3bd0561fb3b4e",
+    "url": "/hospital-app/static/js/main.58d831c3.chunk.js"
   },
   {
     "revision": "8ddc2c74d61cad27efb5",
