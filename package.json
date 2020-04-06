@@ -2,7 +2,7 @@
   "name": "hospital-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://artyomkr.github.io/hospital-app/",
+  "homepage": "https://artyomkr.github.io/hospital-app",
   "dependencies": {
     "@babel/runtime": "^7.9.2",
     "@testing-library/jest-dom": "^4.2.4",

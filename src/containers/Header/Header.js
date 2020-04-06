@@ -1,11 +1,13 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { Link } from 'react-router-dom';
+import { Link, Redirect } from 'react-router-dom';
+
 
 import Button from '../../components/Button/Button.js'
 import './Header.scss';
-
 import cn from 'classnames';
+
+import { logout } from "../../redux/Authentication/actions/AuthenticationActions";
 
 function mapStateToProps(state){
     return{
@@ -13,7 +15,20 @@ function mapStateToProps(state){
     }
 }
 
+function mapDispatchToProps(dispatch){
+    return{
+        actions: {
+            logout: ()=> dispatch(logout())
+        }
+    }
+}
+
  class Header extends React.Component{
+
+    handleExitButton = () => {
+        this.props.actions.logout();
+    };
+
     render(){
         const {
             title = '',
@@ -37,7 +52,7 @@ function mapStateToProps(state){
                     <div className='flex-1 d-flex flex-row justify-content-end align-items-center'>
                         <span className='header-body__username'>{userName}</span>
                             <Button
-                                href='/authentication'
+                                onClick={this.handleExitButton}
                                 className='header-body__exitButton'
                                 text='Выйти'
                             />
@@ -48,4 +63,4 @@ function mapStateToProps(state){
     }
 }
 //add current user and exit button
-export default connect(mapStateToProps)(Header);
+export default connect(mapStateToProps, mapDispatchToProps)(Header);

@@ -6,7 +6,6 @@ import { Redirect } from 'react-router-dom';
 import TextField from '../../components/Forms/TextField.js';
 import Button from '../../components/Button/Button.js';
 import { ReactComponent as Hospital } from '../../images/Icons/hospital.svg';
-
 import './Authentication.scss';
 
 import * as AuthenticationActions from '../../redux/Authentication/actions/AuthenticationActions.js';
