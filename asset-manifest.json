@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/hospital-app/static/css/main.a0b9ec87.chunk.css",
-    "main.js": "/hospital-app/static/js/main.58d831c3.chunk.js",
-    "main.js.map": "/hospital-app/static/js/main.58d831c3.chunk.js.map",
+    "main.js": "/hospital-app/static/js/main.845796a7.chunk.js",
+    "main.js.map": "/hospital-app/static/js/main.845796a7.chunk.js.map",
     "runtime-main.js": "/hospital-app/static/js/runtime-main.3b8fba49.js",
     "runtime-main.js.map": "/hospital-app/static/js/runtime-main.3b8fba49.js.map",
     "static/css/2.b90ce945.chunk.css": "/hospital-app/static/css/2.b90ce945.chunk.css",
-    "static/js/2.fedc66c1.chunk.js": "/hospital-app/static/js/2.fedc66c1.chunk.js",
-    "static/js/2.fedc66c1.chunk.js.map": "/hospital-app/static/js/2.fedc66c1.chunk.js.map",
+    "static/js/2.eb3ce97c.chunk.js": "/hospital-app/static/js/2.eb3ce97c.chunk.js",
+    "static/js/2.eb3ce97c.chunk.js.map": "/hospital-app/static/js/2.eb3ce97c.chunk.js.map",
     "index.html": "/hospital-app/index.html",
-    "precache-manifest.bcc7473fdc505d68086e84d4db072cc4.js": "/hospital-app/precache-manifest.bcc7473fdc505d68086e84d4db072cc4.js",
+    "precache-manifest.5599f3dde3899c19de68511ef2b3e323.js": "/hospital-app/precache-manifest.5599f3dde3899c19de68511ef2b3e323.js",
     "service-worker.js": "/hospital-app/service-worker.js",
     "static/css/2.b90ce945.chunk.css.map": "/hospital-app/static/css/2.b90ce945.chunk.css.map",
     "static/css/main.a0b9ec87.chunk.css.map": "/hospital-app/static/css/main.a0b9ec87.chunk.css.map",
-    "static/js/2.fedc66c1.chunk.js.LICENSE.txt": "/hospital-app/static/js/2.fedc66c1.chunk.js.LICENSE.txt",
+    "static/js/2.eb3ce97c.chunk.js.LICENSE.txt": "/hospital-app/static/js/2.eb3ce97c.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/hospital-app/static/media/Roboto-Regular.90679e0c.ttf",
     "static/media/baby.6f191e6f.svg": "/hospital-app/static/media/baby.6f191e6f.svg",
     "static/media/calendar.d2b4ddeb.svg": "/hospital-app/static/media/calendar.d2b4ddeb.svg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.3b8fba49.js",
     "static/css/2.b90ce945.chunk.css",
-    "static/js/2.fedc66c1.chunk.js",
+    "static/js/2.eb3ce97c.chunk.js",
     "static/css/main.a0b9ec87.chunk.css",
-    "static/js/main.58d831c3.chunk.js"
+    "static/js/main.845796a7.chunk.js"
   ]
 }

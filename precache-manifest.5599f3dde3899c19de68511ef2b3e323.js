@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c72fc23e379188981397bbee4cfae89",
+    "revision": "a5ab29ce00a5837e52172f637e1ebcc1",
     "url": "/hospital-app/index.html"
   },
   {
-    "revision": "0a1462887ff5ac9cb69b",
+    "revision": "60870b4acacca9109519",
     "url": "/hospital-app/static/css/2.b90ce945.chunk.css"
   },
   {
-    "revision": "76f3e4f3bd0561fb3b4e",
+    "revision": "366889662ec295683ef7",
     "url": "/hospital-app/static/css/main.a0b9ec87.chunk.css"
   },
   {
-    "revision": "0a1462887ff5ac9cb69b",
-    "url": "/hospital-app/static/js/2.fedc66c1.chunk.js"
+    "revision": "60870b4acacca9109519",
+    "url": "/hospital-app/static/js/2.eb3ce97c.chunk.js"
   },
   {
     "revision": "ec1f85f1bca9f81b1472297e40dc72a0",
-    "url": "/hospital-app/static/js/2.fedc66c1.chunk.js.LICENSE.txt"
+    "url": "/hospital-app/static/js/2.eb3ce97c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76f3e4f3bd0561fb3b4e",
-    "url": "/hospital-app/static/js/main.58d831c3.chunk.js"
+    "revision": "366889662ec295683ef7",
+    "url": "/hospital-app/static/js/main.845796a7.chunk.js"
   },
   {
     "revision": "8ddc2c74d61cad27efb5",
